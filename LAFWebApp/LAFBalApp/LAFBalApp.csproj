@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Bpmn\Resources\" />
+    <Folder Include="Workflow\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Camunda.Api.Client" Version="2.6.0" />
+	<PackageReference Include="Camunda.Worker" Version="0.9.0" />
+	<PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+	<PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LAFDalApp\LAFDalApp.csproj" />
+  </ItemGroup>
+
+</Project>

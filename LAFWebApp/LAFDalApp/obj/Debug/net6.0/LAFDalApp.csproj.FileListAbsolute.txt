@@ -1,0 +1,12 @@
+C:\Users\SteveElKhoury\source\repos\LAFWebApp\LAFDalApp\bin\Debug\net6.0\LAFDalApp.deps.json
+C:\Users\SteveElKhoury\source\repos\LAFWebApp\LAFDalApp\bin\Debug\net6.0\LAFDalApp.dll
+C:\Users\SteveElKhoury\source\repos\LAFWebApp\LAFDalApp\bin\Debug\net6.0\LAFDalApp.pdb
+C:\Users\SteveElKhoury\source\repos\LAFWebApp\LAFDalApp\obj\Debug\net6.0\LAFDalApp.csproj.AssemblyReference.cache
+C:\Users\SteveElKhoury\source\repos\LAFWebApp\LAFDalApp\obj\Debug\net6.0\LAFDalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SteveElKhoury\source\repos\LAFWebApp\LAFDalApp\obj\Debug\net6.0\LAFDalApp.AssemblyInfoInputs.cache
+C:\Users\SteveElKhoury\source\repos\LAFWebApp\LAFDalApp\obj\Debug\net6.0\LAFDalApp.AssemblyInfo.cs
+C:\Users\SteveElKhoury\source\repos\LAFWebApp\LAFDalApp\obj\Debug\net6.0\LAFDalApp.csproj.CoreCompileInputs.cache
+C:\Users\SteveElKhoury\source\repos\LAFWebApp\LAFDalApp\obj\Debug\net6.0\LAFDalApp.dll
+C:\Users\SteveElKhoury\source\repos\LAFWebApp\LAFDalApp\obj\Debug\net6.0\refint\LAFDalApp.dll
+C:\Users\SteveElKhoury\source\repos\LAFWebApp\LAFDalApp\obj\Debug\net6.0\LAFDalApp.pdb
+C:\Users\SteveElKhoury\source\repos\LAFWebApp\LAFDalApp\obj\Debug\net6.0\ref\LAFDalApp.dll
