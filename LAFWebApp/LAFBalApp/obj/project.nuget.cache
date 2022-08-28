@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xQr/iZTeFEUB3tUzkaIN7412fl/EMQXy3p/fmtZfewipOIhK6siBcwnJUFiKvwLO18l0DVUm2Z1QFymHoYzf/w==",
+  "dgSpecHash": "OZKwqkXyujWZZ3vbKa3w9b6Dnr3++z8pc12TgQUTDnt/Td0ga55fd3me1bCztZvMzU3nqHDNPsqQMoBtJR3KtA==",
   "success": true,
   "projectFilePath": "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFBalApp\\LAFBalApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SteveElKhoury\\.nuget\\packages\\camunda.api.client\\2.6.0\\camunda.api.client.2.6.0.nupkg.sha512",
     "C:\\Users\\SteveElKhoury\\.nuget\\packages\\camunda.worker\\0.9.0\\camunda.worker.0.9.0.nupkg.sha512",
+    "C:\\Users\\SteveElKhoury\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
+    "C:\\Users\\SteveElKhoury\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.0.0\\mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\SteveElKhoury\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\SteveElKhoury\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\SteveElKhoury\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.2.0\\microsoft.aspnetcore.authentication.cookies.2.2.0.nupkg.sha512",
