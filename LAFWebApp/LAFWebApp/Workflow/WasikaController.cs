@@ -12,7 +12,7 @@ namespace LAFWebApp.Workflow
     public class WasikaController : ControllerBase
     {
         // GET: api/<WasikaController>
-        [Authorize()]
+        [Authorize(Roles = "CanAttach")]
         [HttpGet]
         public IEnumerable<string> Get()
         {

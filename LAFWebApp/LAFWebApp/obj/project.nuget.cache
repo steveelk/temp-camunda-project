@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RW5sF5wRPvDDbkeLehQZSYRqMfy/bZF0yjyOMjwtVrwgYZhcyE1ePWuy051t/y076qAur5oyuhl0ohYAo2C0Uw==",
+  "dgSpecHash": "QtUqn+n6YrPned2eNhVknITPX8q2rY68999iGjvIlD1C5si9Jv/hnpYfNtmNp+blBF2En7QdLjoY2mTL2EMK2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFWebApp\\LAFWebApp.csproj",
+  "projectFilePath": "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFWebApp\\LAFWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SteveElKhoury\\.nuget\\packages\\camunda.api.client\\2.6.0\\camunda.api.client.2.6.0.nupkg.sha512",
     "C:\\Users\\SteveElKhoury\\.nuget\\packages\\camunda.worker\\0.9.0\\camunda.worker.0.9.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RNNlvmECe/JD5dnGPJlNBFjoKY4CtsBgXzpVdcnr3hLp1ioQYyUyYQk5NBWqRoJO+RZj+JHyzDZajD018Iud/Q==",
+  "dgSpecHash": "MqYWq8kZP902EfFJdwaueX/J5u4Oh0wzDd+4OQ1u/No29xDhdy6rDYUNrrM4kYnzHhHBOxoZ937sbdhYzdWT6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFDalApp\\LAFDalApp.csproj",
+  "projectFilePath": "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFDalApp\\LAFDalApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SteveElKhoury\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\SteveElKhoury\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

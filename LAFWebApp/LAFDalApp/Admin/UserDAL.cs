@@ -23,7 +23,7 @@ namespace LAFDalApp.Admin
                 try
                 {
                     conn.Open();
-                    const string query = "SELCT * FROM Users WHERE ID=@ID";
+                    const string query = "SELCET * FROM Users WHERE ID=@ID";
                     SqlCommand cmd = new SqlCommand(query, conn);
                     cmd.Parameters.Add(CreateParam("@ID", id));
                     SqlDataReader dataReader = cmd.ExecuteReader();

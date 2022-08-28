@@ -15,19 +15,6 @@ namespace LAFWebApp
     [ApiController]
     public class AuthController : ControllerBase
     {
-        private readonly UserManager<User> userManager;
-        private readonly RoleManager<IdentityRole> roleManager;
-        private readonly IConfiguration _configuration;
-        private SignInManager<User> signInManager;
-
-        //public AuthController(UserManager<User> userManager, SignInManager<User> signInManager, RoleManager<IdentityRole> roleManager, IConfiguration configuration)
-        //{
-        //    this.userManager = userManager;
-        //    this.roleManager = roleManager;
-        //    _configuration = configuration;
-        //    this.signInManager = signInManager;
-        //}
-
         [HttpPost]
         [Route("Login")]
         public async Task<IActionResult> Login()
@@ -52,7 +39,10 @@ namespace LAFWebApp
                 foreach (var permission in permissions)
                 {
                     authClaims.Add(new Claim("Permission", permission));
+                    authClaims.Add(new Claim(ClaimTypes.Role, permission));
                 }
+
+                
 
                 //var token = GetToken(authClaims);
 

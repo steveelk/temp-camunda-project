@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFWebApp\\LAFWebApp.csproj": {}
+    "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFWebApp\\LAFWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFBalApp\\LAFBalApp.csproj": {
+    "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFBalApp\\LAFBalApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFBalApp\\LAFBalApp.csproj",
+        "projectUniqueName": "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFBalApp\\LAFBalApp.csproj",
         "projectName": "LAFBalApp",
-        "projectPath": "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFBalApp\\LAFBalApp.csproj",
+        "projectPath": "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFBalApp\\LAFBalApp.csproj",
         "packagesPath": "C:\\Users\\SteveElKhoury\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFBalApp\\obj\\",
+        "outputPath": "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFBalApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFDalApp\\LAFDalApp.csproj": {
-                "projectPath": "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFDalApp\\LAFDalApp.csproj"
+              "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFDalApp\\LAFDalApp.csproj": {
+                "projectPath": "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFDalApp\\LAFDalApp.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFDalApp\\LAFDalApp.csproj": {
+    "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFDalApp\\LAFDalApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFDalApp\\LAFDalApp.csproj",
+        "projectUniqueName": "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFDalApp\\LAFDalApp.csproj",
         "projectName": "LAFDalApp",
-        "projectPath": "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFDalApp\\LAFDalApp.csproj",
+        "projectPath": "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFDalApp\\LAFDalApp.csproj",
         "packagesPath": "C:\\Users\\SteveElKhoury\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFDalApp\\obj\\",
+        "outputPath": "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFDalApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -168,14 +168,14 @@
         }
       }
     },
-    "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFWebApp\\LAFWebApp.csproj": {
+    "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFWebApp\\LAFWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFWebApp\\LAFWebApp.csproj",
+        "projectUniqueName": "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFWebApp\\LAFWebApp.csproj",
         "projectName": "LAFWebApp",
-        "projectPath": "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFWebApp\\LAFWebApp.csproj",
+        "projectPath": "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFWebApp\\LAFWebApp.csproj",
         "packagesPath": "C:\\Users\\SteveElKhoury\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFWebApp\\obj\\",
+        "outputPath": "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -197,11 +197,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFBalApp\\LAFBalApp.csproj": {
-                "projectPath": "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFBalApp\\LAFBalApp.csproj"
+              "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFBalApp\\LAFBalApp.csproj": {
+                "projectPath": "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFBalApp\\LAFBalApp.csproj"
               },
-              "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFDalApp\\LAFDalApp.csproj": {
-                "projectPath": "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFDalApp\\LAFDalApp.csproj"
+              "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFDalApp\\LAFDalApp.csproj": {
+                "projectPath": "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFDalApp\\LAFDalApp.csproj"
               }
             }
           }

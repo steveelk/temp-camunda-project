@@ -37,7 +37,7 @@ namespace LAFDalApp.Admin
 
         public User getUser(long id)
         {
-            _dataAccess.getUser(id);
+            //_dataAccess.getUser(id);
             User user = new User();
             user.Id = 1;
             user.UserName = "asd";

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFDalApp\\LAFDalApp.csproj": {}
+    "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFDalApp\\LAFDalApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFDalApp\\LAFDalApp.csproj": {
+    "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFDalApp\\LAFDalApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFDalApp\\LAFDalApp.csproj",
+        "projectUniqueName": "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFDalApp\\LAFDalApp.csproj",
         "projectName": "LAFDalApp",
-        "projectPath": "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFDalApp\\LAFDalApp.csproj",
+        "projectPath": "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFDalApp\\LAFDalApp.csproj",
         "packagesPath": "C:\\Users\\SteveElKhoury\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SteveElKhoury\\source\\repos\\LAFWebApp\\LAFDalApp\\obj\\",
+        "outputPath": "C:\\work\\temp-camunda-project\\LAFWebApp\\LAFDalApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

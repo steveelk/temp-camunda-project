@@ -18,7 +18,6 @@ namespace LAFWebApp
 
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddSingleton<IConnectionStringProvider, ConnectionStringProvider>();
             services.AddRazorPages();
             //services.AddCamunda(camundaRestApiUri);
         }
