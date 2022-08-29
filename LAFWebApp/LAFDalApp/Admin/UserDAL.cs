@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Extensions.Configuration;
+using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
@@ -9,6 +10,14 @@ namespace LAFDalApp.Admin
 {
     public class UserDAL : SqlDAL, IUserDAL
     {
+
+        private int _minSaltSize = 8;
+
+        private int _maxSaltSize = 16;
+
+        private int _saltDigestSize = 32;
+
+        private int _saltIterCount = 75000;
         public UserDAL()
            : base()
         {
@@ -49,6 +58,24 @@ namespace LAFDalApp.Admin
                 }
                 return user;
             }
+        }
+
+        public void SetPassword(string password)
+        {
+            string salt = PBKDF2SHA256.GenerateSalt(_minSaltSize, _maxSaltSize);
+            string newPass = PBKDF2SHA256.PBKDF2SHA256GetString(_saltDigestSize, password, salt, _saltIterCount);
+        }
+
+        private bool ComparePBKDF2SHA256(string password, string saltedPassword, string salt)
+        {
+            string newSaltedPassword = PBKDF2SHA256.PBKDF2SHA256GetString(_saltDigestSize, password, salt,
+                        _saltIterCount);
+
+            if (newSaltedPassword == saltedPassword)
+            {
+                return true;
+            }
+            return false;
         }
     }
 }
